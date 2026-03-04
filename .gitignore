@@ -1,0 +1,6 @@
+desktop.ini
+.ipynb_checkpoints/
+
+# local datasets (keep locally, don't commit)
+MAIN JUPYTER NOTEBOOK/*.csv
+MAIN JUPYTER NOTEBOOK/*.zip
